@@ -10,7 +10,7 @@ body{
 nav ul{
 	list-style: none;
 	border-top:6px solid #e6af2e;
-	background: lightgrey;
+	
 }
 nav ul li a{
 	text-decoration: none;
@@ -21,7 +21,7 @@ nav ul li a{
 	color: #fff;
 }
 nav ul li a:hover{
-	color:#e0e2db;
+	color:#e6af2e;
 }
 
 .logo{
